@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>dot-matrix.TTF</string>
+		<string>dot-matrix-bold.TTF</string>
+		<string>fixedsys.ttf</string>
+	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need your location to find the nearest bus stops for your selected routes. Please click 'Always Allow' for the best performance!</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>We need your location to find the nearest bus stops for your selected routes. Please click 'Always Allow' for the best performance!</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>processing</string>
+	</array>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>com.myapp.octranspo.refresh</string>
+	</array>
+	<key>CFBundleDisplayName</key>
+	<string>Ottawa Transpo Widget</string>
+</dict>
+</plist>
+
