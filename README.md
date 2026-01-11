@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="OCTranspoWidget/Assets.xcassets/AppLogo.imageset/ottawatransitwidget.png" width="128" height="128" alt="Ottawa Service Widget Logo">
+</p>
+
 # ottawa transport widget
 
 an ios home screen widget that provides real-time bus departure information for ottawa's oc transpo system. it allows users to pin their favorite stops and routes for quick access to live transit data.
